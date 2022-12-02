@@ -2,7 +2,7 @@
 Movimientos de un personaje utilizando el patrón de diseño Command.
 
 # librerias que deben ser instaladas para ejecutar
-pygame
+1.- pygame
 
 # the_assets
 https://gamekrazzy.itch.io/8-direction-top-down-character
