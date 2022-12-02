@@ -7,6 +7,6 @@ https://gamekrazzy.itch.io/8-direction-top-down-character
 #the_sprites
 https://drive.google.com/drive/folders/16X5Pe9AL8hm2cpewd8eCzC8z9eKnXOn0
 
-#libraries
+#librerias que deben ser instaladas para ejecutar el main
 pygame
 
